@@ -1,5 +1,5 @@
 // popup.js
-let apiURL = "https://x1zi1laze8.execute-api.us-west-2.amazonaws.com/v1/";
+let apiURL = "https://xxxxxxxxxx.execute-api.us-west-2.amazonaws.com/v1/";
 
 // listen to our translate button for on click
 translateButton.addEventListener("click", async () => {
